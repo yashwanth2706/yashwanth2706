@@ -7,7 +7,7 @@ Computer Science Student.
 I've been learning to code for 6+ years, I started with C/C++, SQL, HTML currently learning Python, JavaScript to explore more opportunities in Tech.
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [Tetris Game](http://github.com/yashwanth2706)
+* 🖥️  See my portfolio at [Tetris Game](http://github.com/yashwanth2706/Tetris)
 * ✉️  You can contact me at [yash1anth.official@gmail.com](mailto:yash1anth.official@gmail.com)
 * 🧠  I'm learning Python, Javascript and SQL
 * 🤝  I'm open to collaborating on Intermediate level Projects
