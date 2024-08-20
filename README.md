@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student.
 -------------------------
 
-I've been learning to code for 6+ years, I started with C/C++, SQL, HTML currently learning Python, JavaScript to explore more opportunities in Tech.
+About Me
 
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [Tetris Game](http://github.com/yashwanth2706/Tetris)
