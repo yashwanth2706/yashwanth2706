@@ -17,11 +17,11 @@ I thrive on creativity, problem-solving, and a never-ending curiosity for all th
 ### 🛠️ My Tech Toolbox
 
 - **Languages:** Python 🐍, JavaScript ⚡, C 🔧, HTML5, CSS3
-- **Frameworks:** Django 🚀 (my web fortress)
+- **Frameworks:** Django 🚀
 - **Database:** PostgreSQL 🐘
 - **Virtualization:** VirtualBox 📦
-- **APIs:** RESTful APIs (building bridges between apps)
-- **OS:** Linux 🐧 (command line ninja)
+- **APIs:** RESTful APIs
+- **OS:** Linux 🐧
 
 ---
 
