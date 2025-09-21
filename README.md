@@ -1,18 +1,16 @@
 <!-- Hi there, I'm Yashwanth 👋 -->
 
-# 👨‍💻 Yashwanth - Software Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth2706/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yashwanth2706)
-
+# 🐧
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanth2706&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth2706" /> </p>
 
 ---
 
 ### 🚀 About Me
 
-Hey there! I'm **Yashwanth**, a passionate software developer who loves building web apps, automating stuff. 
-I thrive on creativity, problem-solving, and a never-ending curiosity for all things tech.
+I use Linux btw, \
+In a pace where i can do a full CRUD with Linked Lists and on my way to understand subnetting, \
+I think that the creater(s) of Git, VLC, DOOM, Halflife are GOAT, \
+I'm also grateful for other legends who create grate Software which I'm not aware of
 
 ---
 
@@ -47,5 +45,4 @@ I thrive on creativity, problem-solving, and a never-ending curiosity for all th
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — Cory House
+
