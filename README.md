@@ -9,7 +9,7 @@
 
 I use Linux btw, \
 In a pace where i can do a full CRUD with Linked Lists and on my way to understand subnetting, \
-I think that the creater(s) of Git, VLC, DOOM, Halflife are GOAT, \
+I think that the creater(s) of Git, VLC, DOOM, RollerCoaster Tycoon are GOAT, \
 I'm also grateful for other legends who create grate Software which I'm not aware of
 
 ---
