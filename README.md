@@ -12,6 +12,6 @@
 
 ### 📫 Let's Connect
 [LinkedIn](https://linkedin.com/in/yashwanth2706) \
-Email: yash1anth@gmail.com
+Email: yash1anth.official@gmail.com
 
 ---
