@@ -2,7 +2,7 @@
 
 ###  Projects that i have worked on
 - [Advanced Link Management Utility (Django, Bootstrap, PostgreSQL)](https://github.com/yashwanth2706/LinkBOX)
-- [Falling Sand Simulation (python/pygame)](https://github.com/yashwanth2706/fallingsand-simulation)
+- [Falling Sand Simulation (python/pygame/OOPS)](https://github.com/yashwanth2706/fallingsand-simulation)
 - [URL Shortner](https://github.com/yashwanth2706/django-url-shortner) (In Development) 
 - [Appointment Booking System](https://github.com/yashwanth2706/appointment_booking_system) (In Development) 
 - [Tetris - Game (C/C++)](https://github.com/yashwanth2706/Tetris)
