@@ -1,10 +1,11 @@
 # Hello! I'm Yashwanth  🐧
 
 ###  Projects that i have worked on
-- [LinkBOX (URL-Manager)](https://github.com/yashwanth2706/LinkBOX) 
+- [Advanced Link Management Utility (Django, Bootstrap, PostgreSQL)](https://github.com/yashwanth2706/LinkBOX)
+- [Falling Sand Simulation (python/pygame)](https://github.com/yashwanth2706/fallingsand-simulation)
 - [URL Shortner](https://github.com/yashwanth2706/django-url-shortner) (In Development) 
 - [Appointment Booking System](https://github.com/yashwanth2706/appointment_booking_system) (In Development) 
-- [Tetris - Game](https://github.com/yashwanth2706/Tetris)
+- [Tetris - Game (C/C++)](https://github.com/yashwanth2706/Tetris)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanth2706&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth2706" /> </p>
 
