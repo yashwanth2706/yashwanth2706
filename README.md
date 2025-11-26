@@ -1,7 +1,7 @@
 # Hello! I'm Yashwanth  🐧
 
 ###  Projects that i have worked on
-- [Advanced Link Management Utility (Django, Bootstrap, PostgreSQL)](https://github.com/yashwanth2706/LinkBOX)
+- [Advanced URL Management Utility (Django, Bootstrap, PostgreSQL)](https://github.com/yashwanth2706/LinkBOX)
 - [Trade Opportunity Analysis and Markdown Report Generater API for a given secter (FastAPI, Python, LLM, GeminiAPI, Prompt Engineering)](https://github.com/yashwanth2706/TradeOpportunitiesAPI)
 - [Falling Sand Simulation (python/pygame/OOPS)](https://github.com/yashwanth2706/fallingsand-simulation)
 - [Tetris - Game (C++/Raylib/OOPs)](https://github.com/yashwanth2706/Tetris)
